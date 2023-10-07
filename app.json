@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "expo_rn_onnx_runtime_3",
+    "slug": "expo_rn_onnx_runtime_3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.faithyeenx5.ml"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.faithyeenx5.expo_rn_onnx_runtime_3"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
